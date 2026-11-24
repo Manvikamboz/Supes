@@ -102,19 +102,14 @@ media/             screenshots of the Gem and test runs
 
 To show the results page online, turn on GitHub Pages: Settings, Pages, deploy from the main branch, root folder. The page is only a viewer for the test results. The prototype is the Gem.
 
-## Updating the results page
-
-Open `index.html` and edit the section marked "Edit this section when you run new tests". Change `ver`, `act` and `ok` for each test you re-run, add the new version to `VERSIONS`, and update the `STATUS` line. Paste the shared Gem link into `GEM_URL` to show a link at the top.
 
 ## Team
 
-| Enrollment no. | Name | Task |
+| Enrollment no. | Name 
 |---|---|---|
-| S24CSEU0266 | Manvi Kamboj | [task] |
-| S24CSEU1977 | [name] | [task] |
-| S24CSEU0084 | [name] | [task] |
-| S24CSEU0220 | [name] | [task] |
-| S24CSEU2033 | [name] | [task] |
-| S24CSEU2783 | [name] | [task] |
-
-This table must match Q22 of the form and Section 7 of the Milestone 2 PDF.
+| S24CSEU0266 | Manvi Kamboj | TEam Leader |
+| S24CSEU1977 | Abhay Raj Verma |
+| S24CSEU0084 | Tulsi Sanskrati Tomar | 
+| S24CSEU0220 | Manas Tewari | 
+| S24CSEU2033 | Prashant Kapil | 
+| S24CSEU2783 | Anurag singh | 
